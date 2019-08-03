@@ -32,3 +32,45 @@ basic_info:
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: https://sep.breatheco.de/sharu725
     github: rebwill
+
+# languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Native
+      - idiom: Spanish
+        level: Fluent
+      - idiom: Portuguese
+        level: Beginner
+
+    # Interests or hobies
+    interests:
+      - item: Scuba diving
+
+      - item: Environmental conservation
+
+      - item: Diversity in tech
+
+# Your previous education
+education:
+    - degree: Full Stack Web Development
+      university: 4Geeks Academy, Miami, FL
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2019
+      details: Full stack web development course covering HTML, CSS, Bootstrap, Javascript, React, PHP, and Wordpress
+    - degree: MBA
+      university: Universidad de Palermo, Buenos Aires, Argentina
+      time: 2018
+    - degree: BA in International Affairs and Anthropology
+      university: Northeastern University, Boston, MA
+      time: 2013
+      # optional
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: General Manager
+      time: 2017-2019
+      company: BUILDING.co
+      # optional
+      company_logo:
+      details: Responsible for membership and event sales, marketing, client satisfaction, partnerships, and operations at Miami's premier coworking space for tech companies.
