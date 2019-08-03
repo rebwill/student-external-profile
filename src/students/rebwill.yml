@@ -12,13 +12,12 @@ basic_info:
     motto: Full stack web developer, working on things that matter.
 
     # focus
-    focus: x, y, and z
+    focus: Gaining experience in front end and back end web development.
 
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: With a diverse background ranging from higher education in Boston to business development for a Colombian startup to managing a coworking space for tech companies in Miami, I currently work as a full stack web developer.
     I have an MBA from the Universidad de Palermo in Buenos Aires, Argentina and a BA in International Affairs and Anthropology from Northeastern University in Boston.
     I love being able to combine the mental challenge and analytical thinking of web development with my strong business background and people skills.
-
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be https://sep.breatheco.de/static/profile-images/<your file name>
     avatar: https://sep.breatheco.de/static/profile-images/Rebecca_headshot_2019
